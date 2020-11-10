@@ -1,0 +1,13 @@
+{
+  "name": "jarty",
+  "version": "0.0.1",
+  "directories": {
+    "example": "examples",
+    "test": "tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gennei/jarty.git"
+  },
+  "homepage": "https://github.com/gennei/jarty#readme"
+}
